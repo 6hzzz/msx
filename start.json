@@ -1,6 +1,6 @@
 {    
     "name": "iTV",
     "version": "1.0.0",
-    "parameter": "menu:http://6hzzz.github.io/msx/data/menu.json",
+    "parameter": "content:http://6hzzz.github.io/msx/data/video.json",
     "welcome": "阿彌陀佛"
 }
